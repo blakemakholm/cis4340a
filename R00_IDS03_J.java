@@ -1,3 +1,5 @@
+// Note that this code does not run, it is simply to document the SEI Java Rule with the non-compliant
+// and compliant code as shown below
 
 // Non-compliant Solution
 if (loginSuccessful) {
